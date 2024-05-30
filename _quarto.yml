@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  page-footer: "[![](https://img.shields.io/badge/license-CC--4.0--BY--SA-lightgrey)](https://creativecommons.org/licenses/by/4.0/deed.en) Vic Nagel"
   title: "Vic Nagel"
   navbar:
     left:
