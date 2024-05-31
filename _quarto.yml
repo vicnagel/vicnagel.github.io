@@ -9,6 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - CV.qmd
       - contact.qmd
 
 format:

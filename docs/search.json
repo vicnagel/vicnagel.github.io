@@ -12,5 +12,33 @@
     "title": "Contact",
     "section": "",
     "text": "You can contact me:\n\nby email with “victoria.nagel” at “sciencespo.fr”\non Linkedin"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Sciences Po Master of sociology\nUniversity of Glasgow\nSciences Po Nancy\nLicence de droit Université de Lorraine - L1 / L2\nLycée Franco-Allemand"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Sciences Po Master of sociology\nUniversity of Glasgow\nSciences Po Nancy\nLicence de droit Université de Lorraine - L1 / L2\nLycée Franco-Allemand"
+  },
+  {
+    "objectID": "CV.html#experiences",
+    "href": "CV.html#experiences",
+    "title": "CV",
+    "section": "Experiences",
+    "text": "Experiences\nJune 2024: Ecole d’été des méthodes mixtes\nJune 2024: International Conference on Social Stress Research\n2023 - 2024: Research assistant at the Collège de France with Colombe Saillard\n2023: Research assistant at Sciences Po with Marta Dominguez"
+  },
+  {
+    "objectID": "CV.html#qualification",
+    "href": "CV.html#qualification",
+    "title": "CV",
+    "section": "Qualification",
+    "text": "Qualification\n\nQuantitative methods with R and HTML\n\nStatistical description\nPanel analysis\nStatistical inference\nSocial network analysis\nVisualisation\nTextual analysis\nWeb scraping\n\n\n\nQualitative methods\n\nStructured and semi-structured interviews\nParticipant and non participant ethnography\nDigital ethnography\n\n\n\nFields\n\nGender and sexuality\nSocial inequality\nSexual violence\nDisability studies\nMental health"
   }
 ]

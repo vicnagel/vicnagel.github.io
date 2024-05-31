@@ -1,0 +1,55 @@
+---
+title: "CV"
+author: "Vic Nagel"
+format: html
+editor: visual
+---
+
+## Education
+
+
+Sciences Po Master of sociology
+
+University of Glasgow
+
+Sciences Po Nancy
+
+Licence de droit Université de Lorraine - L1 / L2
+
+Lycée Franco-Allemand
+
+## Experiences
+
+June 2024: Ecole d'été des méthodes mixtes
+
+June 2024: International Conference on Social Stress Research
+
+2023 - 2024: Research assistant at the Collège de France with Colombe Saillard
+
+2023: Research assistant at Sciences Po with Marta Dominguez
+
+## Qualification
+
+### Quantitative methods with R and HTML
+
+-   Statistical description
+-   Panel analysis
+-   Statistical inference
+-   Social network analysis
+-   Visualisation
+-   Textual analysis
+-   Web scraping
+
+### Qualitative methods
+
+-   Structured and semi-structured interviews
+-   Participant and non participant ethnography
+-   Digital ethnography
+
+### Fields
+
+-   Gender and sexuality
+-   Social inequality
+-   Sexual violence
+-   Disability studies
+-   Mental health
