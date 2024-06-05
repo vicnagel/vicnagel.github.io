@@ -1,22 +1,29 @@
 ---
 title: "CV"
-author: "Vic Nagel"
 format: html
 editor: visual
 ---
 
 ## Education
 
+August 2022 - June 2024: Master at Sciences Po Paris - School of Research in Sociology
 
-Sciences Po Master of sociology
+> 
 
-University of Glasgow
+January 2022 - June 2022: Erasmus exchange in the University of Glasgow
 
-Sciences Po Nancy
+> 
 
-Licence de droit Université de Lorraine - L1 / L2
+September 2019 - June 2022: Bachelor at Sciences Po Nancy
 
-Lycée Franco-Allemand
+> 
+
+September 2019 - June 2021: Undergraduate in law at the Université de Lorraine
+
+>
+
+- June 2019: Lycée Franco-Allemand - Buc
+
 
 ## Experiences
 
@@ -53,3 +60,4 @@ June 2024: International Conference on Social Stress Research
 -   Sexual violence
 -   Disability studies
 -   Mental health
+

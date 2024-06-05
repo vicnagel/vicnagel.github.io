@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Not queer enough? - Bisexual mental health",
     "section": "",
-    "text": "Hiya,\nMy name is Vic Nagel (they/them), I will graduate from Sciences Po Paris in June 2024 within the School of Research - Sociology.\nI am interested in sociology of health, of sexuality, and of social inequalities. I have written a dissertation titled “Not queer enough? Stigma within lesbian, gay and bisexual populations - A mixed-method study”, supervised by Martin Aranguren.\nI will present my research at the International Conference on Social Stress Research next June in Portland, OR, USA, as well as at the summer school for mixed methods.\nYou can find my CV in French here."
+    "text": "In this page you’ll find soon results from my master’s thesis."
+  },
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "hello.html#meet-quarto",
+    "href": "hello.html#meet-quarto",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "hello.html#meet-the-penguins",
+    "href": "hello.html#meet-the-penguins",
+    "title": "Hello, Quarto",
+    "section": "Meet the penguins",
+    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins."
   },
   {
     "objectID": "contact.html",
@@ -18,14 +39,14 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "Sciences Po Master of sociology\nUniversity of Glasgow\nSciences Po Nancy\nLicence de droit Université de Lorraine - L1 / L2\nLycée Franco-Allemand"
+    "text": "August 2022 - June 2024: Master at Sciences Po Paris - School of Research in Sociology\n\n\n\nJanuary 2022 - June 2022: Erasmus exchange in the University of Glasgow\n\n\n\nSeptember 2019 - June 2022: Bachelor at Sciences Po Nancy\n\n\n\nSeptember 2019 - June 2021: Undergraduate in law at the Université de Lorraine\n\n\n\n\nJune 2019: Lycée Franco-Allemand - Buc"
   },
   {
     "objectID": "CV.html#education",
     "href": "CV.html#education",
     "title": "CV",
     "section": "",
-    "text": "Sciences Po Master of sociology\nUniversity of Glasgow\nSciences Po Nancy\nLicence de droit Université de Lorraine - L1 / L2\nLycée Franco-Allemand"
+    "text": "August 2022 - June 2024: Master at Sciences Po Paris - School of Research in Sociology\n\n\n\nJanuary 2022 - June 2022: Erasmus exchange in the University of Glasgow\n\n\n\nSeptember 2019 - June 2022: Bachelor at Sciences Po Nancy\n\n\n\nSeptember 2019 - June 2021: Undergraduate in law at the Université de Lorraine\n\n\n\n\nJune 2019: Lycée Franco-Allemand - Buc"
   },
   {
     "objectID": "CV.html#experiences",
@@ -40,5 +61,12 @@
     "title": "CV",
     "section": "Qualification",
     "text": "Qualification\n\nQuantitative methods with R and HTML\n\nStatistical description\nPanel analysis\nStatistical inference\nSocial network analysis\nVisualisation\nTextual analysis\nWeb scraping\n\n\n\nQualitative methods\n\nStructured and semi-structured interviews\nParticipant and non participant ethnography\nDigital ethnography\n\n\n\nFields\n\nGender and sexuality\nSocial inequality\nSexual violence\nDisability studies\nMental health"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hiya,\nMy name is Vic Nagel (they/them), I will graduate from Sciences Po Paris in June 2024 within the School of Research - Sociology.\nI am interested in sociology of health, of sexuality, and of social inequalities. I have written a dissertation titled “Not queer enough? Stigma within lesbian, gay and bisexual populations - A mixed-method study”, supervised by Martin Aranguren.\nI will present my research at the International Conference on Social Stress Research next June in Portland (OR, USA), as well as at the Summer school for mixed methods in Rennes (France).\nYou can find my CV in French here."
   }
 ]

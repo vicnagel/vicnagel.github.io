@@ -9,11 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - results.qmd
       - CV.qmd
       - contact.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: cosmo #theme pour l'ensemble
     css: styles.css
     toc: true
